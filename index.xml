@@ -7,13 +7,13 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>京城第一少的空间</copyright><atom:link href="https://hacker-mr-x.github.io/blog-hugo.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://hacker-mr-x.github.io/blog-hugo.github.io/p/test/</link>
-        <pubDate>Wed, 23 Oct 2024 20:50:23 +0800</pubDate>
+        <title>Nothing To write</title>
+        <link>https://hacker-mr-x.github.io/blog-hugo.github.io/p/nothing-to-write/</link>
+        <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/p/test/</guid>
-        <description>&lt;h2 id=&#34;正文&#34;&gt;正文
-&lt;/h2&gt;&lt;p&gt;鹅鹅鹅曲项向天歌&lt;/p&gt;
+        <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/p/nothing-to-write/</guid>
+        <description>&lt;h2 id=&#34;main-post&#34;&gt;Main post
+&lt;/h2&gt;&lt;p&gt;Today is the next day sincece i build my blog website,actually i really wangt to write something to make my blog more colorful.but nothing ui wangt to say .&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -22,8 +22,8 @@
         <pubDate>Wed, 23 Oct 2024 19:44:58 +0800</pubDate>
         
         <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/p/myfirstblog/</guid>
-        <description>&lt;h2 id=&#34;正文&#34;&gt;正文
-&lt;/h2&gt;&lt;p&gt;2024年10月23日，我的脑海中萌生出了建议一个博客网站念头，在马克思主义原理的课程上。我无意中刷到了一个北邮学生的博客，我想我也试试做一些有意义的事了。于是我开始了博客网站的建立的进程。&lt;/p&gt;
+        <description>&lt;h2 id=&#34;main-post&#34;&gt;Main post
+&lt;/h2&gt;&lt;p&gt;today is 2024.20.23,an idea came from my brain,which is to build a blog website,In a lesson in university,I have seen an blog from a university student . I think that it&amp;rsquo;s time to do some thing meaningful.so i start to build such website&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -122,6 +122,14 @@
         
         <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/archives/</guid>
         <description></description>
+        </item>
+        <item>
+        <title>Guide</title>
+        <link>https://hacker-mr-x.github.io/blog-hugo.github.io/p/guide/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/p/guide/</guid>
+        <description>&lt;img src="https://hacker-mr-x.github.io/blog-hugo.github.io/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Guide" /&gt;</description>
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
@@ -460,29 +468,11 @@ $$</description>
         <item>
         <title>About</title>
         <link>https://hacker-mr-x.github.io/blog-hugo.github.io/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 14 Apr 2005 00:00:00 +0000</pubDate>
         
         <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;My name is Allan ,an university student,my major is data science.
+Welcome!!!&lt;/p&gt;
 </description>
         </item>
         <item>

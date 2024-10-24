@@ -2,8 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/categories/</loc>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hacker-mr-x.github.io/blog-hugo.github.io/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://hacker-mr-x.github.io/blog-hugo.github.io/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacker-mr-x.github.io/blog-hugo.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/p/nothing-to-write/</loc>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hacker-mr-x.github.io/blog-hugo.github.io/zh-cn/p/%E6%97%A0%E4%BA%8B%E5%8F%AF%E8%AE%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hacker-mr-x.github.io/blog-hugo.github.io/p/nothing-to-write/"
+                />
+  </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/post/</loc>
-    <lastmod>2024-10-24T14:33:13+08:00</lastmod>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -20,28 +51,20 @@
                 href="https://hacker-mr-x.github.io/blog-hugo.github.io/post/"
                 />
   </url><url>
-    <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/p/test/</loc>
-    <lastmod>2024-10-24T14:33:13+08:00</lastmod>
+    <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/categories/writing/</loc>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/p/myfirstblog/</loc>
-    <lastmod>2024-10-24T14:33:13+08:00</lastmod>
-  </url><url>
-    <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/categories/</loc>
-    <lastmod>2024-10-23T20:35:38+08:00</lastmod>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hacker-mr-x.github.io/blog-hugo.github.io/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://hacker-mr-x.github.io/blog-hugo.github.io/ar/categories/"
+                href="https://hacker-mr-x.github.io/blog-hugo.github.io/zh-cn/p/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hacker-mr-x.github.io/blog-hugo.github.io/categories/"
+                href="https://hacker-mr-x.github.io/blog-hugo.github.io/p/myfirstblog/"
                 />
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/p/test-chinese/</loc>
@@ -74,7 +97,7 @@
     <lastmod>2024-10-23T20:35:38+08:00</lastmod>
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/page/</loc>
-    <lastmod>2024-10-23T20:35:38+08:00</lastmod>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -87,22 +110,25 @@
                 />
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/tags/css/</loc>
-    <lastmod>2024-10-23T20:35:38+08:00</lastmod>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
+  </url><url>
+    <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/p/guide/</loc>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/tags/html/</loc>
-    <lastmod>2024-10-23T20:35:38+08:00</lastmod>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/tags/markdown/</loc>
-    <lastmod>2024-10-23T20:35:38+08:00</lastmod>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/p/markdown-syntax-guide/</loc>
     <lastmod>2024-10-23T20:35:38+08:00</lastmod>
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/categories/syntax/</loc>
-    <lastmod>2024-10-23T20:35:38+08:00</lastmod>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/tags/</loc>
-    <lastmod>2024-10-23T20:35:38+08:00</lastmod>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -120,10 +146,10 @@
                 />
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/tags/themes/</loc>
-    <lastmod>2024-10-23T20:35:38+08:00</lastmod>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/categories/themes/</loc>
-    <lastmod>2024-10-23T20:35:38+08:00</lastmod>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/p/placeholder-text/</loc>
     <lastmod>2024-10-23T20:35:38+08:00</lastmod>
@@ -157,7 +183,7 @@
     <lastmod>2024-10-23T20:35:38+08:00</lastmod>
   </url><url>
     <loc>https://hacker-mr-x.github.io/blog-hugo.github.io/about/</loc>
-    <lastmod>2024-10-23T20:35:38+08:00</lastmod>
+    <lastmod>2024-10-24T22:12:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"

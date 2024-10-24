@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Writing on Allan&#39;s Space</title>
+        <link>https://hacker-mr-x.github.io/blog-hugo.github.io/categories/writing/</link>
+        <description>Recent content in Writing on Allan&#39;s Space</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>京城第一少的空间</copyright>
+        <lastBuildDate>Thu, 24 Oct 2024 22:12:03 +0800</lastBuildDate><atom:link href="https://hacker-mr-x.github.io/blog-hugo.github.io/categories/writing/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Nothing To write</title>
+        <link>https://hacker-mr-x.github.io/blog-hugo.github.io/p/nothing-to-write/</link>
+        <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/p/nothing-to-write/</guid>
+        <description>&lt;h2 id=&#34;main-post&#34;&gt;Main post
+&lt;/h2&gt;&lt;p&gt;Today is the next day sincece i build my blog website,actually i really wangt to write something to make my blog more colorful.but nothing ui wangt to say .&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -7,14 +7,14 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>京城第一少的空间</copyright>
-        <lastBuildDate>Thu, 24 Oct 2024 14:33:13 +0800</lastBuildDate><atom:link href="https://hacker-mr-x.github.io/blog-hugo.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://hacker-mr-x.github.io/blog-hugo.github.io/p/test/</link>
-        <pubDate>Wed, 23 Oct 2024 20:50:23 +0800</pubDate>
+        <lastBuildDate>Thu, 24 Oct 2024 22:12:03 +0800</lastBuildDate><atom:link href="https://hacker-mr-x.github.io/blog-hugo.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Nothing To write</title>
+        <link>https://hacker-mr-x.github.io/blog-hugo.github.io/p/nothing-to-write/</link>
+        <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/p/test/</guid>
-        <description>&lt;h2 id=&#34;正文&#34;&gt;正文
-&lt;/h2&gt;&lt;p&gt;鹅鹅鹅曲项向天歌&lt;/p&gt;
+        <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/p/nothing-to-write/</guid>
+        <description>&lt;h2 id=&#34;main-post&#34;&gt;Main post
+&lt;/h2&gt;&lt;p&gt;Today is the next day sincece i build my blog website,actually i really wangt to write something to make my blog more colorful.but nothing ui wangt to say .&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -23,8 +23,8 @@
         <pubDate>Wed, 23 Oct 2024 19:44:58 +0800</pubDate>
         
         <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/p/myfirstblog/</guid>
-        <description>&lt;h2 id=&#34;正文&#34;&gt;正文
-&lt;/h2&gt;&lt;p&gt;2024年10月23日，我的脑海中萌生出了建议一个博客网站念头，在马克思主义原理的课程上。我无意中刷到了一个北邮学生的博客，我想我也试试做一些有意义的事了。于是我开始了博客网站的建立的进程。&lt;/p&gt;
+        <description>&lt;h2 id=&#34;main-post&#34;&gt;Main post
+&lt;/h2&gt;&lt;p&gt;today is 2024.20.23,an idea came from my brain,which is to build a blog website,In a lesson in university,I have seen an blog from a university student . I think that it&amp;rsquo;s time to do some thing meaningful.so i start to build such website&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -115,6 +115,14 @@
 &lt;/div&gt;&lt;p&gt;相册语法来自 &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Typlog&lt;/a&gt;&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>Guide</title>
+        <link>https://hacker-mr-x.github.io/blog-hugo.github.io/p/guide/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/p/guide/</guid>
+        <description>&lt;img src="https://hacker-mr-x.github.io/blog-hugo.github.io/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Guide" /&gt;</description>
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
