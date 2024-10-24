@@ -7,13 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>京城第一少的空间</copyright>
-        <lastBuildDate>Wed, 23 Oct 2024 20:50:23 +0800</lastBuildDate><atom:link href="https://hacker-mr-x.github.io/blog-hugo.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 24 Oct 2024 14:33:13 +0800</lastBuildDate><atom:link href="https://hacker-mr-x.github.io/blog-hugo.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
         <link>https://hacker-mr-x.github.io/blog-hugo.github.io/p/test/</link>
         <pubDate>Wed, 23 Oct 2024 20:50:23 +0800</pubDate>
         
         <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/p/test/</guid>
-        <description></description>
+        <description>&lt;h2 id=&#34;正文&#34;&gt;正文
+&lt;/h2&gt;&lt;p&gt;鹅鹅鹅曲项向天歌&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>MyFirstBlog</title>
@@ -21,7 +23,9 @@
         <pubDate>Wed, 23 Oct 2024 19:44:58 +0800</pubDate>
         
         <guid>https://hacker-mr-x.github.io/blog-hugo.github.io/p/myfirstblog/</guid>
-        <description></description>
+        <description>&lt;h2 id=&#34;正文&#34;&gt;正文
+&lt;/h2&gt;&lt;p&gt;2024年10月23日，我的脑海中萌生出了建议一个博客网站念头，在马克思主义原理的课程上。我无意中刷到了一个北邮学生的博客，我想我也试试做一些有意义的事了。于是我开始了博客网站的建立的进程。&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Chinese Test</title>
